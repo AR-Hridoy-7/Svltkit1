@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+  background: #070707;
+  margin: 0;
+}
+h1,h2,h3,h4,a,p,li {
+  color: #d2c2e2;
+  font-family: 'Times New Romman', Times, serif;
+  font-weight: normal;
+}
