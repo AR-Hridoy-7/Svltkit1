@@ -5,7 +5,6 @@
 <div class="about">
     <h2>About Us</h2>
     <p>Hello guys this is me Hridoy</p>
-    <a href="/">Home</a>
 </div>
 
 <style>

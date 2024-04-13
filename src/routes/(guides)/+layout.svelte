@@ -1,14 +1,15 @@
 <script>
     import Title from "$lib/title.svelte";
-    import '../styles/global.css';
+    import '../../styles/global.css';
 </script>
 
 <header>
     <nav>
-        <Title title = "This is layout title" /> 
+        <Title title = "This is guide title" /> 
         <div class="links">
             <a href="/">Home</a>
             <a href="/about">About</a>
+            <a href="/guides">Guides</a>
         </div>
     </nav>
 </header>
